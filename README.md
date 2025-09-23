@@ -13,7 +13,7 @@
 ## Atrativos da Disciplina
 
 Atrativos da disciplina "Computação no Ensino e Aprendizagem de Ciência e Tecnologia" (CEACT) :
-- **só 2h40 semanais, 40h semestrais**, na 3a-feira às 18h-21h, Lab. 3 de Informática do prédio Chichiu;
+- **só 2h40 semanais, 40h semestrais, aulas previstas entre 23/09/2025 e 03/02/2025, na 3a-feira às 18h-21h, Lab. 3 de Informática do prédio Chichiu**;
 - **todas aulas são práticas, com um(a) aluna/o interagindo diretamente no computador**;
 - **sem uso de papel em atividades**, com 100% das aulas, testes, exercícios e trabalhos usando documentos eletrônicos (formato Jupyter Notebook);
 - visa auxiliar na compreensão, redação e resolução numérica, simbólica e gráfica de problemas de várias disciplinas da graduação;
