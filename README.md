@@ -21,7 +21,7 @@ Atrativos da disciplina "Computação no Ensino e Aprendizagem de Ciência e Tec
 - **ensino de editoração eletrônica (La)TeX**, muito usado em dissertações de TCC e pós-graduação, revistas científicas, etc, na área de Exatas e outras;
 - **ensino de programação em Python e módulos científicos** como :
    * **programação estruturada, funcional e OOP (orientada a objetos) em Python 3**;
-   * **SymPy** com cálculos simbólicos de expŕessões, limites, derivadas, integrais, equações, vetores, matrizes, etc;
+   * **[SymPy](https://www.sympy.org/)** com cálculos simbólicos de expŕessões, limites, derivadas, integrais, equações, vetores, matrizes, etc;
    * **NumPy**, com cálculos numéricos diversos, em 1 a N dimensões;
    * **Matplotlib** e outros módulos para gráficos diversos em 1 a 3 dimensões, incluindo animações;
    * **pandas** para manipulação e análise de dados;
