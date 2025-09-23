@@ -38,3 +38,23 @@ Práticas de ensino de Ciência e Tecnologia por meio da criação e/ou utiliza�
 ## Objetivos Específicos
 
 Capacitar estudantes para o uso ativo de tecnologias computacionais, para que compreendam tal tecnologia como ferramenta de comunicação, produtora eficiente de informações e de objetos educacionais, dessa forma disseminando conhecimento, resolvendo problemas e exercendo seu protagonismo e autoria na vida pessoal e coletiva. Assim provendo ferramentas para criação de conteúdos digitais voltados para o ensino e para ter uma visão crítica das tecnologias digitais contemporâneas.
+
+## Critérios / Processo de avaliação da Aprendizagem :
+
+Seguintes avaliações :
+- testes individuais, durante as aulas. Valor: 10,0 pontos cada que compõem a Média dos TEstes; (MTE)
+- trabalhos individuais, com eventual apresentação. Valor: 10,0 pontos cada que compõem a Média dos TRabalhos Individuais; (MTRI)
+- trabalhos em grupo, com eventual apresentação. Valor: 10,0 pontos cada que compõem a Média dos TRabalhos em Grupo; (MTRG)
+- exercícios individuais, sendo mais simples que trabalhos e com prazos mais curtos de entrega. Valor: 10,0 pontos cada que compõem a Média dos EXercícios; (MEX)
+- participação durante as aulas com registro em documento Jupyter Notebook. Valor: 10,0 pontos cada que compõem a Média de PArticipação; (MPA)
+
+Média parcial (MP), sendo ceifada em 10,0 se ultrapassar tal valor :
+```
+MP = 0,3 MTE + 0,3 MTRI + 0,3 MTRG + 0,2 MEX + 0,2 MPA
+```
+Aprovação direta com MP >= 7,0, senão vai para Prova Final.
+Prova Final - O conteúdo a ser estudado para a prova será todo aquele ministrado ao longo do semestre.
+Média Final (MF) = (Nota da prova final + Média Parcial)/2
+Aprovação com MP >= 5,0, senão reprovação na disciplina por nota.
+
+O aluno também precisa ter 75% de assiduidade nas atividades para não ser reprovado por falta.
