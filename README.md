@@ -29,7 +29,7 @@ Atrativos da disciplina "Computação no Ensino e Aprendizagem de Ciência e Tec
    * **Numba** e **CuPy** para aceleração em CPU e GPU (placa de vídeo);
    * **scikit-learn** e **TensorFlow/PyTorch** para Aprendizado de Máquina (Machine Learning).
 
-Muitos empregos tem exigido conhecimento de Python e ao menos parte dos módulos listados acima.
+Muitos **empregos** tem exigido conhecimento de Python e ao menos parte dos módulos listados acima.
 
 ## Ementa
 
