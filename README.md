@@ -1,5 +1,3 @@
-**Teste**
-
 # Computação no Ensino e Aprendizagem de Ciência e Tecnologia (CEACT) - UFES/Alegre
 
 ## Disciplina "DQF17072 Computação no Ensino e Aprendizagem de Ciência e Tecnologia" (CEACT)
@@ -35,10 +33,8 @@ Muitos **empregos** tem exigido conhecimento de Python e ao menos parte dos mód
 
 ## Ementa
 
-...
+Práticas de ensino de Ciência e Tecnologia por meio da criação e/ou utilização de experiências computacionais no processo de ensino e aprendizagem no ensino médio e superior; Utilização ativa de computação para resolver problemas em ciência e tecnologia; Noções de programação; Computação numérica e simbólica; Visualização de dados científicos; Uso de ambientes computacionais de simulação em problemas de Ciência e Tecnologia; Noções sobre Aprendizado de Máquina e Inteligência Artificial.
 
 ## Objetivos Específicos
 
-...
-
-## Conteúdo Programático
+Capacitar estudantes para o uso ativo de tecnologias computacionais, para que compreendam tal tecnologia como ferramenta de comunicação, produtora eficiente de informações e de objetos educacionais, dessa forma disseminando conhecimento, resolvendo problemas e exercendo seu protagonismo e autoria na vida pessoal e coletiva. Assim provendo ferramentas para criação de conteúdos digitais voltados para o ensino e para ter uma visão crítica das tecnologias digitais contemporâneas.
