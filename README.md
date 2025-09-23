@@ -19,15 +19,15 @@ Atrativos da disciplina "Computação no Ensino e Aprendizagem de Ciência e Tec
 - visa auxiliar na compreensão, redação e resolução numérica, simbólica e gráfica de problemas de várias disciplinas da graduação;
 - **uso de somente softwares gratuitos e multiplataforma**, como Anaconda, Google Colab (nuvem), Jupyter Lab, etc;
 - **ensino de editoração eletrônica (La)TeX**, muito usado em dissertações de TCC e pós-graduação, revistas científicas, etc, na área de Exatas e outras;
-- **ensino de programação em Python e módulos científicos** como :
+- **ensino de programação em [Python](https://www.python.org/) e módulos científicos** como :
    * **programação estruturada, funcional e OOP (orientada a objetos) em Python 3**;
    * **[SymPy](https://www.sympy.org/)** com cálculos simbólicos de expŕessões, limites, derivadas, integrais, equações, vetores, matrizes, etc;
-   * **NumPy**, com cálculos numéricos diversos, em 1 a N dimensões;
-   * **Matplotlib** e outros módulos para gráficos diversos em 1 a 3 dimensões, incluindo animações;
-   * **pandas** para manipulação e análise de dados;
-   * **uncertainties** para propagação de incertezas;
-   * **Numba** e **CuPy** para aceleração em CPU e GPU (placa de vídeo);
-   * **scikit-learn** e **TensorFlow/PyTorch** para Aprendizado de Máquina (Machine Learning).
+   * **[NumPy](https://numpy.org/)**, com cálculos numéricos diversos, em 1 a N dimensões;
+   * **[Matplotlib](https://matplotlib.org/)** e outros módulos para gráficos diversos em 1 a 3 dimensões, incluindo animações;
+   * **[pandas](https://pandas.pydata.org/)** para manipulação e análise de dados;
+   * **[uncertainties](https://pythonhosted.org/uncertainties/)** para propagação de incertezas;
+   * **[Numba](https://numba.pydata.org/)** e **[CuPy](CuPy)** para aceleração em CPU e GPU (placa de vídeo);
+   * **[scikit-learn](https://scikit-learn.org/stable/)** e **[TensorFlow](https://www.tensorflow.org/?hl=pt-br)/[PyTorch](https://pytorch.org/)** para Aprendizado de Máquina (Machine Learning).
 
 Muitos **empregos** tem exigido conhecimento de Python e ao menos parte dos módulos listados acima.
 
